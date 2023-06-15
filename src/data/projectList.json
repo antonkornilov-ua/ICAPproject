@@ -1,0 +1,44 @@
+[
+    {
+        "name": "TasksMaster",
+        "logo": "src/media/AppsMaster/Tasks.png",
+        "description": "TasksMaster is an efficient task and list management app. Plan, organize, and accomplish your tasks with ease. Stay on top of your to-do list and boost your productivity with this powerful app.",
+        "appStoreUrl": "https://apps.apple.com/ua/app/awesome-tasks/id1234567890",
+        "learnMoreUrl": "https://example.com/awesome-tasks"
+    },
+    {
+        "name": "PhotoMaster",
+        "logo": "src/media/AppsMaster/photo.png",
+        "description": "PhotoMaster is a powerful photo editor with numerous features and filters. Capture perfect shots, enhance your photos, and unleash your creativity. Share your stunning images with friends and showcase your photography skills.",
+        "appStoreUrl": "https://apps.apple.com/ua/app/photo-master/id9876543210",
+        "learnMoreUrl": "https://example.com/photo-master"
+    },
+    {
+        "name": "TravelMaster",
+        "logo": "src/media/AppsMaster/travel.png",
+        "description": "TravelMaster is your ultimate guide to the world of travel. Explore new destinations, discover hidden gems, and plan unforgettable trips. Get the best tips, recommendations, and reviews for the places you want to visit. Start your journey with TravelMaster.",
+        "appStoreUrl": "https://apps.apple.com/ua/app/travel-explorer/id2468135790",
+        "learnMoreUrl": "https://example.com/travel-explorer"
+    },
+    {
+        "name": "FitnessMaster",
+        "logo": "src/media/AppsMaster/Fitness.png",
+        "description": "FitnessMaster is your personal trainer for a healthy lifestyle. Achieve your fitness goals with personalized workouts, meal plans, and expert guidance. Track your progress, stay motivated, and transform your body. Start your fitness journey with FitnessMaster.",
+        "appStoreUrl": "https://apps.apple.com/ua/app/fitness-buddy/id1357924680",
+        "learnMoreUrl": "https://example.com/fitness-buddy"
+    },
+    {
+        "name": "MoneyMaster",
+        "logo": "src/media/AppsMaster/Money.png",
+        "description": "MoneyMaster is your assistant for financial planning and budget management. Take control of your finances, track your expenses, and save money effortlessly. Set financial goals, analyze your spending habits, and make smart financial decisions with MoneyMaster.",
+        "appStoreUrl": "https://apps.apple.com/ua/app/money-manager/id3692581470",
+        "learnMoreUrl": "https://example.com/money-manager"
+    },
+    {
+        "name": "WeatherMaster",
+        "logo": "src/media/AppsMaster/Weather.png",
+        "description": "WeatherMaster is a weather forecast app for your region. Stay informed about the current weather conditions and plan your activities accordingly. Get accurate information about temperature, humidity, precipitation, and more. Be prepared for any weather with WeatherMaster.",
+        "appStoreUrl": "https://apps.apple.com/ua/app/weather-now/id7531592468",
+        "learnMoreUrl": "https://example.com/weather-now"
+    }
+]
